@@ -10,6 +10,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This is the line that grants the action write permissions
+
     steps:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
