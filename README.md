@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hey there, I'm Jayson
+    Hey there...
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <h3>
-    A Freelance Web Developer crafting clear solutions from chaotic problems.
+   I'm a Freelance Web Developer crafting clear solutions from chaotic problems.
   </h3>
 </div>
 
