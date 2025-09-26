@@ -35,8 +35,8 @@ Here are the primary tools and technologies I work with:
 ###  My GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sxientrie&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxientrie&theme=dracula&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sxientrie&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxientrie&theme=gruvbox&layout=compact&hide_border=true" />
 </p>
 
 ---
