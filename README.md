@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Jayson+(Sxientrie);Freelance+Web+Developer;React+%26+TypeScript+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" /></a>
-</div>
-
 <table>
 <tr valign="top">
 <td width="60%">
@@ -68,7 +64,7 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 <div align="center">
   
 ### 🐍 My Contribution Snake
-  <img src="https://github.com/Sxientrie/Sxientrie/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+  <img src="https://github.com/Sxientrie/Sxientrie/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
 
 </div>
 
