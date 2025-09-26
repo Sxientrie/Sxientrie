@@ -12,7 +12,7 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 
 <br>
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 
 <br>
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:jasonrico.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -33,7 +33,7 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 </td>
 <td width="40%">
 
-### 📊 My GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sxientrie&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
@@ -42,7 +42,7 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 
 <br>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sxientrie&theme=gruvbox&column=3&row=2&margin-w=15&margin-h=15" />
@@ -50,7 +50,7 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 
 <br>
 
-### 💻 My Wakatime Stats
+### Wakatime Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sxientrie&theme=gruvbox&layout=compact&hide_border=true" />
@@ -60,10 +60,10 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 </tr>
 </table>
 
-### 📈 My Weekly Development Breakdown
+### Weekly Dev Breakdown
 <div align="center">
   
-### 🐍 My Contribution Snake
+### Contribution Snake
   <img src="https://github.com/Sxientrie/Sxientrie/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
 
 </div>
