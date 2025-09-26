@@ -71,14 +71,6 @@ I'm a developer who thrives on building interactive and intelligent web applicat
 </tr>
 </table>
 
-### Weekly Dev Breakdown
-<div align="center">
-  
-### Contribution Snake
-  <img src="https://github.com/Sxientrie/Sxientrie/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
-
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sxientrie&color=green" alt="profile views"/>
 </p>
