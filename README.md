@@ -15,10 +15,8 @@
 
 ### About Me
 
-I'm a developer who thrives on building interactive and intelligent web applications. My background in high-pressure kitchens taught me to be calm and strategic, a mindset I now bring to software development.
-
-- I’m currently architecting modern web apps and building full-stack serverless functions.
-- My workflow is centered around **React, TypeScript, and Tailwind CSS**.
+- Currently architecting modern web apps and building full-stack serverless functions.
+- Workflow is centered around **React, TypeScript, and Tailwind CSS**.
 - Ask me about clean architecture, state management, or scalable solutions.
 
 <br>
