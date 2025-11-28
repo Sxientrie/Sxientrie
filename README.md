@@ -35,7 +35,7 @@
 <p align="center">
   <a href="mailto:jasonrico.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/jaysonrico-career"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://sxientrie.github.io/MyPortfolio"><img src="https://img.shields.io/badge/Portfolio-255,255,255?style=for-the-badge&logo=About.me&logoColor=black"></a>
+  <a href="https://sxientrie.github.io/myPortfolio"><img src="https://img.shields.io/badge/Portfolio-255,255,255?style=for-the-badge&logo=About.me&logoColor=black"></a>
 </p>
 
 </td>
