@@ -5,7 +5,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <h3>
-   I'm a Freelance Web Developer crafting clear solutions from chaotic problems.
+   I'm a Technical Support & Creative Generalist..
   </h3>
 </div>
 
@@ -16,8 +16,7 @@
 ### About Me
 
 - Currently architecting modern web apps and building full-stack serverless functions.
-- Workflow is centered around **React, TypeScript, and Tailwind CSS**.
-- Ask me about clean architecture, state management, or scalable solutions.
+- Workflow is centered around React, TypeScript.
 
 <br>
 
@@ -25,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,mongodb,prisma,git,docker,ruby,rails" />
+    <img src="https://skillicons.dev/icons?i=react,ts,html,git,docker" />
   </a>
 </p>
 
